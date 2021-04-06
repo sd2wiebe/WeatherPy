@@ -1,3 +1,6 @@
+/Vacation_itinerary/config.py
+/Vacation_search/Weather_Database/config.py
+/Vacation_search/config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
